@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ashish-todo-list/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ashish-todo-list/static/js/main.481618ec.chunk.js",
+    "main.js.map": "/ashish-todo-list/static/js/main.481618ec.chunk.js.map",
+    "runtime-main.js": "/ashish-todo-list/static/js/runtime-main.88b3ae75.js",
+    "runtime-main.js.map": "/ashish-todo-list/static/js/runtime-main.88b3ae75.js.map",
+    "static/js/2.dead7bc0.chunk.js": "/ashish-todo-list/static/js/2.dead7bc0.chunk.js",
+    "static/js/2.dead7bc0.chunk.js.map": "/ashish-todo-list/static/js/2.dead7bc0.chunk.js.map",
+    "static/js/3.263a9caf.chunk.js": "/ashish-todo-list/static/js/3.263a9caf.chunk.js",
+    "static/js/3.263a9caf.chunk.js.map": "/ashish-todo-list/static/js/3.263a9caf.chunk.js.map",
+    "index.html": "/ashish-todo-list/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ashish-todo-list/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dead7bc0.chunk.js.LICENSE.txt": "/ashish-todo-list/static/js/2.dead7bc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88b3ae75.js",
+    "static/js/2.dead7bc0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.481618ec.chunk.js"
+  ]
+}
